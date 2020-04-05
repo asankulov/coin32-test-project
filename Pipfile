@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+python-dotenv = "==0.12.*"
+
+[packages]
+django = "==2.2.*"
+djangorestframework = "==3.11.*"
+drf-yasg = "==1.17.*"
+mysqlclient = "==1.4.*"
+redis = "==3.4.*"
+
+[requires]
+python_version = "3.8"

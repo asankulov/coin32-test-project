@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+__pycache__
+*.pyc
+*.sqlite3
+*~
+.DS_Store
+/virtualenv/
+/media/
+/static/
+.env
+*.log
+/log/
+/data/
+README.md

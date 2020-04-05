@@ -1,0 +1,4 @@
+
+class SubpartAlreadyTakenException(Exception):
+    pass
+
